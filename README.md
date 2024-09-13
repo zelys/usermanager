@@ -37,7 +37,7 @@ Este proyecto es un sistema de administración de usuarios desarrollado en Java 
 ### Pasos para la Ejecución
 1. Clonar el repositorio:
    ```
-   git clone https://github.com/tu-usuario/usermanager.git
+   git clone https://github.com/zelys/usermanager.git
    ```
 
 2. Navegar al directorio del proyecto:
@@ -62,5 +62,6 @@ Este proyecto es un sistema de administración de usuarios desarrollado en Java 
 ## Contribuciones
 Las contribuciones son bienvenidas. Por favor, abre un issue para discutir los cambios propuestos antes de realizar un pull request.
 
-## Licencia
-Apache License 2.0
+## CONTACTO
+LinkedIn: [Elias Celis](https://www.linkedin.com/in/ecelis/)
+Correo electrónico: zelys.dev@gmail.com
